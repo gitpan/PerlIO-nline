@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+SIGNATURE
+README
+t/0-signature.t
+t/1-PerlIO-nline.t
+nline.pm
+META.yml                                 Module meta-data (added by MakeMaker)
