@@ -1,5 +1,6 @@
+^Makefile$
 ^blib/
 ^pm_to_blib$
-^_Inline/
-^Makefile(.old)?$
-^nline.inl$
+\.c$
+\.o$
+\.bs$

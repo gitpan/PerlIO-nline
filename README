@@ -1,4 +1,4 @@
-PerlIO-nline version 0.01
+PerlIO-nline version 0.02
 =========================
 
 This module provides an alternative to the standard :crlf layer.
@@ -16,7 +16,7 @@ To install this module type the following:
 
 DEPENDENCIES
 
-Inline::C
+perl 5.8.0, XSLoader
 
 COPYRIGHT AND LICENCE
 
